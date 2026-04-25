@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9cf00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b05917&height=120&section=header"/>
 
 # Prazer, Gustavo! 👋
 
@@ -42,8 +42,8 @@ Sou aprenziz técnico dentro da empresa WEG, cursando aprendizagem em informáti
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=gustavoheckESTUDANTE&show_icons=true&theme=merko" alt="GitHub Stats" height="200" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoheckESTUDANTE&size_weight=0.5&count_weight=0.5&theme=merko&layout=donut" alt="Top Langs" height="200" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=gustavoheckESTUDANTE&show_icons=true&theme=darcula" alt="GitHub Stats" height="200" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoheckESTUDANTE&size_weight=0.5&count_weight=0.5&theme=darcula&layout=donut" alt="Top Langs" height="200" /></td>
     </tr>
   </table>
 </div>
@@ -54,4 +54,4 @@ Sou aprenziz técnico dentro da empresa WEG, cursando aprendizagem em informáti
   <img src="https://komarev.com/ghpvc/?username=gustavoheckESTUDANTE&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9cf00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b05917&height=120&section=footer"/>
