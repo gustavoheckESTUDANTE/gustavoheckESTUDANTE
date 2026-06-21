@@ -11,7 +11,7 @@ Sou aprenziz técnico dentro da empresa WEG, cursando aprendizagem em informáti
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle; border: none;">Meu github Principal &nbsp;</td>
-    <td style="vertical-align: middle; border: none;"><a href=https://github.com/gustavoheck" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" style="display: block;"/></a></td>
+    <td style="vertical-align: middle; border: none;"><a href=https://github.com/gustavoheck target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" style="display: block;"/></a></td>
   </tr>
 </table>
 
